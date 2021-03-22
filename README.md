@@ -6,7 +6,7 @@
 - 💯 Also feel free to read my blogs on https://www.linkedin.com/in/jasperbernaers/detail/recent-activity/posts/
 - 🤖 Find me on Twitter https://twitter.com/Jasper_be
 
-<h1>MY RECENT BLOGS<h1>
+<h5>MY RECENT BLOGS<h5>
   <p><a href="https://jasperbernaers.com/how-to-build-your-zero-trust-modern-workplace-with-microsoft-365/">HOW TO BUILD YOUR ZERO TRUST MODERN WORKPLACE WITH MICROSOFT 365</a><br /><a href="https://jasperbernaers.com/automated-security-operations-delivered-by-microsoft-m365e5-secops/">MICROSOFT IS DELIVERING AUTOMATED SECURITY OPERATIONS (SECOPS) FOR ANY ORGANIZATION</a></p>
 
 <!---
