@@ -7,7 +7,7 @@
 - 🤖 Find me on Twitter https://twitter.com/Jasper_be
 
 <h5>MY RECENT BLOGS<h5>
-  <p><a href="https://jasperbernaers.com/how-to-build-your-zero-trust-modern-workplace-with-microsoft-365/">HOW TO BUILD YOUR ZERO TRUST MODERN WORKPLACE WITH MICROSOFT 365</a><br /><a href="https://jasperbernaers.com/automated-security-operations-delivered-by-microsoft-m365e5-secops/">MICROSOFT IS DELIVERING AUTOMATED SECURITY OPERATIONS (SECOPS) FOR ANY ORGANIZATION</a></p>
+  <p><a href="- https://jasperbernaers.com/how-to-build-your-zero-trust-modern-workplace-with-microsoft-365/">HOW TO BUILD YOUR ZERO TRUST MODERN WORKPLACE WITH MICROSOFT 365</a><br /><a href="- https://jasperbernaers.com/automated-security-operations-delivered-by-microsoft-m365e5-secops/">MICROSOFT IS DELIVERING AUTOMATED SECURITY OPERATIONS (SECOPS) FOR ANY ORGANIZATION</a></p>
 
 <!---
 JasperM365/JasperM365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
