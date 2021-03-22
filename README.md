@@ -6,13 +6,26 @@
 - 💯 Also feel free to read my blogs on https://www.linkedin.com/in/jasperbernaers/detail/recent-activity/posts/
 - 🤖 Find me on Twitter https://twitter.com/Jasper_be
 
-<h3>MY RECENT BLOGS<h5>
+<h4>LATEST BLOGPOSTS<h4>
 <ul>
 <li><a href="https://jasperbernaers.com/how-to-build-your-zero-trust-modern-workplace-with-microsoft-365/">HOW TO BUILD YOUR ZERO TRUST MODERN WORKPLACE WITH MICROSOFT 365</a></li>
 <li><a href="https://jasperbernaers.com/automated-security-operations-delivered-by-microsoft-m365e5-secops/">MICROSOFT IS DELIVERING AUTOMATED SECURITY OPERATIONS (SECOPS) FOR ANY ORGANIZATION</a></li>
 <li><a href="https://jasperbernaers.com/technical-high-level-modern-workplace-implementation-with-m365-e3-e5/">TECHNICAL HIGH-LEVEL MODERN WORKPLACE IMPLEMENTATION WITH M365</a></li>
 <li><a href="https://jasperbernaers.com/the-value-of-multi-factor-authentication-get-your-story-right/">THE VALUE OF MULTI-FACTOR AUTHENTICATION &ndash; GET YOUR STORY RIGHT!</a></li>
 <li><a href="https://jasperbernaers.com/the-value-of-microsoft-365-e3-or-e5/">THE VALUE OF MICROSOFT 365 E3 OR E5</a></li>
+</ul>
+
+<h4>MC2MC COMMUNITY<h4>
+  <ul>
+<li><a href="https://www.mc2mc.be/events/autumn-edition-evening-mc2mc/" rel="noopener noreferrer">Autumn Edition MC2MC: 19 November 2020</a></li>
+<li><a href="https://www.mc2mc.be/events/extra-evening-october-mc2mc-women-in-tech/">Extra Evening October MC2MC &ndash; Women in Tech: 22 October 2020</a></li>
+<li><a href="https://www.mc2mc.be/events/extra-evening-september-mc2mc/">Extra Evening September MC2MC: 17 September 2020</a></li>
+<li><a href="https://www.mc2mc.be/events/summer-edition-evening-mc2mc/" rel="noopener noreferrer">Summer Edition MC2MC: 27 August 2020</a></li>
+<li><a href="https://www.mc2mc.be/events/extra-evening-july-mc2mc/">Extra Evening July MC2MC: 23 July 2020</a></li>
+<li><a href="https://www.mc2mc.be/events/extra-evening-june-mc2mc/">Extra Evening June MC2MC: 25 June 2020</a></li>
+<li><a href="https://www.mc2mc.be/events/spring-edition-evening-mc2mc/" rel="noopener noreferrer">Spring Edition MC2MC: 28 May 2020</a></li>
+<li><a href="https://www.mc2mc.be/events/be-community-week-mc2mc-evening/" target="_blank" rel="noopener noreferrer">BE Community Week: MC2MC evening</a></li>
+<li><a href="http://www.mc2mc.be/kick-off-evening/" target="_blank" rel="noopener noreferrer">Kick-Off Evening MC2MC: 19 February 2020</a></li>
 </ul>
 
 <!---
