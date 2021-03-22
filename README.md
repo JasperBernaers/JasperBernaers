@@ -1,4 +1,5 @@
-<h4>HI! I'M Jasper<h4>
+<h4>HI! I'M JASPER<h4>
+  <ul>
 
 - 👋 Hi, I’m @JasperM365, CTO at Synergics Belgium 🌍
 - 👀 I’m pasioned by Microsoft 365 and Azure to bring our customers in the Cloud connected world! 
