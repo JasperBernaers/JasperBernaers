@@ -5,6 +5,8 @@
 - ✍ You will find my blog at https://JasperBernaers.com where I share my ideas of Modern Workplace.
 - 💯 Also feel free to read my blogs on https://www.linkedin.com/in/jasperbernaers/detail/recent-activity/posts/
 - 🤖 Find me on Twitter https://twitter.com/Jasper_be
+- 😍 Community Hero #229 of 550 Community Heroes have contributed materially by organizing meetups or conferences or by sharing content and being an active member of the community! 
+- 📙 Content Hero #106 of 250 Content Heroes share valuable knowledge at conferences, meetings or other events. Recipients of this awards have created original content sample code or learning resources and documented and shared their experiences and lessons to help others to build on Azure.
 
 <h4>LATEST BLOGPOSTS<h4>
 <ul>
