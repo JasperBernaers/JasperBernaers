@@ -20,6 +20,7 @@
 <h4>MC2MC COMMUNITY 🧑‍🤝‍🧑<h4>
   <ul>
 <li><a href="https://www.mc2mc.be/events/autumn-edition-evening-mc2mc/" rel="noopener noreferrer">Autumn Edition MC2MC: 19 November 2020</a></li>
+    <li><a href="https://www.mc2mc.be/events/march-2021-mc2mc-evening/" rel="noopener noreferrer">Marc 2021 - MC2MC Evening</a></li>
 <li><a href="https://www.mc2mc.be/events/extra-evening-october-mc2mc-women-in-tech/">Extra Evening October MC2MC &ndash; Women in Tech: 22 October 2020</a></li>
 <li><a href="https://www.mc2mc.be/events/extra-evening-september-mc2mc/">Extra Evening September MC2MC: 17 September 2020</a></li>
 <li><a href="https://www.mc2mc.be/events/summer-edition-evening-mc2mc/" rel="noopener noreferrer">Summer Edition MC2MC: 27 August 2020</a></li>
