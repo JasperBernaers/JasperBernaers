@@ -8,7 +8,7 @@
 - 😍 Community Hero #229 of 550 Community Heroes have contributed materially by organizing meetups or conferences or by sharing content and being an active member of the community! 
 - 📙 Content Hero #106 of 250 Content Heroes share valuable knowledge at conferences, meetings or other events. Recipients of this awards have created original content sample code or learning resources and documented and shared their experiences and lessons to help others to build on Azure.
 
-<h4>LATEST BLOGPOSTS<h4>
+<h4>LATEST BLOGPOSTS 📖<h4>
 <ul>
 <li><a href="https://jasperbernaers.com/how-to-build-your-zero-trust-modern-workplace-with-microsoft-365/">HOW TO BUILD YOUR ZERO TRUST MODERN WORKPLACE WITH MICROSOFT 365</a></li>
 <li><a href="https://jasperbernaers.com/automated-security-operations-delivered-by-microsoft-m365e5-secops/">MICROSOFT IS DELIVERING AUTOMATED SECURITY OPERATIONS (SECOPS) FOR ANY ORGANIZATION</a></li>
@@ -17,7 +17,7 @@
 <li><a href="https://jasperbernaers.com/the-value-of-microsoft-365-e3-or-e5/">THE VALUE OF MICROSOFT 365 E3 OR E5</a></li>
 </ul>
 
-<h4>MC2MC COMMUNITY<h4>
+<h4>MC2MC COMMUNITY 🧑‍🤝‍🧑<h4>
   <ul>
 <li><a href="https://www.mc2mc.be/events/autumn-edition-evening-mc2mc/" rel="noopener noreferrer">Autumn Edition MC2MC: 19 November 2020</a></li>
 <li><a href="https://www.mc2mc.be/events/extra-evening-october-mc2mc-women-in-tech/">Extra Evening October MC2MC &ndash; Women in Tech: 22 October 2020</a></li>
@@ -30,7 +30,7 @@
 <li><a href="http://www.mc2mc.be/kick-off-evening/" target="_blank" rel="noopener noreferrer">Kick-Off Evening MC2MC: 19 February 2020</a></li>
 </ul>
 
-<h4>CONTACT ME<h4>
+<h4>CONTACT ME 📝<h4>
 <ul>
 <li>MAIL: <a href="mailto:Jasper@bernaers.be">Jasper@bernaers.be</a></li>
 <li>TWITTER: <a href="https://twitter.com/Jasper_be">https://twitter.com/Jasper_be</a></li>
