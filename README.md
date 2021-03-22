@@ -32,9 +32,9 @@
 
 <h4>CONTACT ME<h4>
 <ul>
-<li>Mail: <a href="mailto:Jasper@bernaers.be">Jasper@bernaers.be</a></li>
-<li>Twitter: <a href="https://twitter.com/Jasper_be">https://twitter.com/Jasper_be</a></li>
-<li>LinkedIn: https://www.linkedin.com/in/jasperbernaers</li>
+<li>MAIL: <a href="mailto:Jasper@bernaers.be">Jasper@bernaers.be</a></li>
+<li>TWITTER: <a href="https://twitter.com/Jasper_be">https://twitter.com/Jasper_be</a></li>
+<li>LINKEDIN: https://www.linkedin.com/in/jasperbernaers</li>
 </ul>
 
 <!---
