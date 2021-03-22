@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasperM365, CTO at Synergics Belgium 🌍
 - 👀 I’m pasioned by Microsoft 365 and Azure to bring our customers in the Cloud connected world! 
-- 💞️ I’m looking to collaborate on Microsoft 365 modernization tracks, sharing knownlegde super enthousiast to see how Modern Workplaces are designed in the world.
+- 💞️ I’m looking to collaborate on Microsoft 365 modernization tracks, sharing knowledge! Super enthousiast to see how Modern Workplaces are designed in the world. Also the softside, people change, fast implementation are super great topics to talk about.
 - 📫 MC2MC.be board member Of the Microsoft Cloud and Client Management Community #MC2MC
 - ✍ You will find my blog at https://JasperBernaers.com where I share my ideas of Modern Workplace.
 - 💯 Also feel free to read my blogs on https://www.linkedin.com/in/jasperbernaers/detail/recent-activity/posts/
@@ -26,6 +26,13 @@
 <li><a href="https://www.mc2mc.be/events/spring-edition-evening-mc2mc/" rel="noopener noreferrer">Spring Edition MC2MC: 28 May 2020</a></li>
 <li><a href="https://www.mc2mc.be/events/be-community-week-mc2mc-evening/" target="_blank" rel="noopener noreferrer">BE Community Week: MC2MC evening</a></li>
 <li><a href="http://www.mc2mc.be/kick-off-evening/" target="_blank" rel="noopener noreferrer">Kick-Off Evening MC2MC: 19 February 2020</a></li>
+</ul>
+
+<h4>CONTACT ME<h4>
+<ul>
+<li>Mail: <a href="mailto:Jasper@bernaers.be">Jasper@bernaers.be</a></li>
+<li>Twitter: <a href="https://twitter.com/Jasper_be">https://twitter.com/Jasper_be</a></li>
+<li>LinkedIn: https://www.linkedin.com/in/jasperbernaers</li>
 </ul>
 
 <!---
