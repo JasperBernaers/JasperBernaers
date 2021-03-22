@@ -1,4 +1,3 @@
-<h4>HI I'M JASPER 🧑<h4>
 - 👋 Hi, I’m @JasperM365, CTO at Synergics Belgium 🌍
 - 👀 I’m pasioned by Microsoft 365 and Azure to bring our customers in the Cloud connected world! 
 - 💞️ I’m looking to collaborate on Microsoft 365 modernization tracks, sharing knowledge! Super enthousiast to see how Modern Workplaces are designed in the world. Also the softside, people change, fast implementation are super great topics to talk about.
