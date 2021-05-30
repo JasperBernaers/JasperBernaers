@@ -2,7 +2,7 @@
 - 👀 I’m pasioned by Microsoft 365 and Azure to bring our customers in the Cloud connected world! 
 - 💞️ I’m looking to collaborate on Microsoft 365 modernization tracks, sharing knowledge! Super enthousiast to see how Modern Workplaces are designed in the world. Also the softside, people change, fast implementation are super great topics to talk about.
 - 📫 MC2MC.be board member Of the Microsoft Cloud and Client Management Community #MC2MC
-- ✍ You will find my blog at https://JasperBernaers.com where I share my ideas of Modern Workplace.
+- ✍ You will find my proffesional blog at https://JasperBernaers.com where I share my ideas of Modern Workplace, and my hoby tips blog here: https://365tips.be
 - 💯 Also feel free to read my blogs on https://www.linkedin.com/in/jasperbernaers/detail/recent-activity/posts/
 - 🤖 Find me on Twitter https://twitter.com/Jasper_be
 - 😍 Community Hero #229 of 550 Community Heroes have contributed materially by organizing meetups or conferences or by sharing content and being an active member of the community! 
