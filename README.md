@@ -1,9 +1,7 @@
-<h3>Jasper Bernaers
-🌍</h3>
+<h3>Jasper Bernaers | CTO at Wortell Belgium 🌍</h3>
 
 <ul>
-  <li>👋 Hi, I’m @Jasper Bernaers,Senior Managing Consultant @ IBM Consulting | Microsoft Cloud & Security Expert | Co-Founder MC2MC
-/li>
+  <li>👋 Hi, I’m @Jasper, CTO at Wortell Belgium</li>
   <li>👀 I’m passionate by Microsoft 365 and Azure to bring our customers in the Cloud connected world!</li>
   <li>💞️ I’m looking to collaborate on Microsoft 365 modernization tracks, sharing knowledge! Super enthusiast to see how Modern Workplaces are designed in the world. Also the softside, people change, fast implementation are super great topics to talk about.</li>
   <li>📫 MC2MC.be board member Of the Microsoft Cloud and Client Management Community #MC2MC</li>
@@ -12,6 +10,18 @@
   <li>🤖 Find me on Twitter <a href="https://twitter.com/Jasper_be">@Jasper_be</a></li>
   <li>😍 Community Hero #229 of 550 Community Heroes have contributed materially by organizing meetups or conferences or by sharing content and being an active member of the community!</li>
   <li>📙 Content Hero #106 of 250 Content Heroes share valuable knowledge at conferences, meetings or other events. Recipients of this awards have created original content sample code or learning resources and documented and shared their experiences and lessons to help others to build on Azure.</li>
+</ul>
+
+<hr />
+
+<h4>LINKEDIN ARTICLES 📝</h4>
+<ul>
+  <li><a href="https://www.linkedin.com/pulse/power-proactive-threat-hunting-110-jasper-bernaers-lpxhe/">The Power of Proactive Threat Hunting [1/10]</a></li>
+  <li><a href="https://www.linkedin.com/pulse/how-modern-secure-workplace-can-help-your-organization-jasper-bernaers/">How a modern and secure workplace can help your organization become relevant</a></li>
+  <li><a href="https://www.linkedin.com/pulse/actionable-steps-decrease-risk-cyberattack-jasper-bernaers/">Actionable steps to decrease the risk of a Cyberattack</a></li>
+  <li><a href="https://www.linkedin.com/pulse/cybersecurity-remote-connected-world-jasper-bernaers/">Cybersecurity in a remote connected world</a></li>
+  <li><a href="https://www.linkedin.com/pulse/cybersecurity-local-governments-10-steps-jasper-bernaers/">Cybersecurity for local governments – in 10 steps</a></li>
+  <li><a href="https://www.linkedin.com/pulse/best-zero-trust-sources-microsoft-365-azure-jasper-bernaers/">Best Zero Trust sources Microsoft 365 + Azure</a></li>
 </ul>
 
 <hr />
