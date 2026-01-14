@@ -19,18 +19,54 @@
 
 <h4>MC2MC COMMUNITY 🧑‍🤝‍🧑<h4>
   <ul>
-<li><a href="https://www.mc2mc.be/events/march-2021-mc2mc-evening/" rel="noopener noreferrer">Marc 2021 - MC2MC Evening</a></li>
-<li><a href="https://www.mc2mc.be/events/autumn-edition-evening-mc2mc/" rel="noopener noreferrer">Autumn Edition MC2MC: 19 November 2020</a></li>
-<li><a href="https://www.mc2mc.be/events/extra-evening-october-mc2mc-women-in-tech/">Extra Evening October MC2MC &ndash; Women in Tech: 22 October 2020</a></li>
-<li><a href="https://www.mc2mc.be/events/extra-evening-september-mc2mc/">Extra Evening September MC2MC: 17 September 2020</a></li>
-<li><a href="https://www.mc2mc.be/events/summer-edition-evening-mc2mc/" rel="noopener noreferrer">Summer Edition MC2MC: 27 August 2020</a></li>
-<li><a href="https://www.mc2mc.be/events/extra-evening-july-mc2mc/">Extra Evening July MC2MC: 23 July 2020</a></li>
-<li><a href="https://www.mc2mc.be/events/extra-evening-june-mc2mc/">Extra Evening June MC2MC: 25 June 2020</a></li>
-<li><a href="https://www.mc2mc.be/events/spring-edition-evening-mc2mc/" rel="noopener noreferrer">Spring Edition MC2MC: 28 May 2020</a></li>
-<li><a href="https://www.mc2mc.be/events/be-community-week-mc2mc-evening/" target="_blank" rel="noopener noreferrer">BE Community Week: MC2MC evening</a></li>
-<li><a href="http://www.mc2mc.be/kick-off-evening/" target="_blank" rel="noopener noreferrer">Kick-Off Evening MC2MC: 19 February 2020</a></li>
-</ul>
+<div id="mc2mc-events">
+  <h3>MC2MC COMMUNITY 🧑‍🤝‍🧑</h3>
+  
+  <h4>Future & Recent Events</h4>
+  <ul>
+    <li><strong>05/02/2026</strong> - MC2MC Connect</li>
+    <li><strong>18/12/2025</strong> - MC2MC Live: The Martian Codebase</li>
+    <li><strong>13/11/2025</strong> - MC2MC Live: Transformers of the Digital Age</li>
+    <li><strong>16/10/2025</strong> - MC2MC Live: A Space Odyssey in Innovation</li>
+    <li><strong>11/09/2025</strong> - MC2MC Live: Guardians of the Digital Realm</li>
+    <li><strong>26/06/2025</strong> - MC2MC Live: Voyage to the Edge of the Cloud</li>
+    <li><strong>22/05/2025</strong> - MC2MC Live: The Matrix of Innovation</li>
+    <li><strong>24/04/2025</strong> - MC2MC Live: Jurassic Cloud Adventures</li>
+    <li><strong>20/03/2025</strong> - MC2MC Live: Cloudy with a Chance of Data</li>
+    <li><strong>19/12/2024</strong> - MC2MC Live: Forward to the Past</li>
+    <li><strong>26/09/2024</strong> - MC2MC Live: Safeguarding the Digital Frontier</li>
+    <li><strong>20/06/2024</strong> - MC2MC Live: To Infinity and Beyond</li>
+    <li><strong>22/05/2024</strong> - MC2MC Live: Cloud Incorporated</li>
+    <li><strong>17/04/2024</strong> - MC2MC Live: The Final Frontier</li>
+    <li><strong>25/01/2024</strong> - MC2MC Live: Cloud Guardians Unleashed</li>
+  </ul>
 
+  <h4>Archive 2021 - 2023</h4>
+  <ul>
+    <li><strong>19/12/2023</strong> - MC2MC Live: Winter is Coming</li>
+    <li><strong>September 2023</strong> - MC2MC Live: Welcome to the Future</li>
+    <li><strong>August 2023</strong> - MC2MC Live: The Summer edition</li>
+    <li><strong>May 2023</strong> - MC2MC Live: The Spring edition</li>
+    <li><strong>March 2023</strong> - MC2MC Live: The Movie edition</li>
+    <li><strong>December 2022</strong> - MC2MC Winter Event</li>
+    <li><strong>October 2022</strong> - MC2MC Live: The Autumn edition</li>
+    <li><strong>June 2022</strong> - MC2MC Goes Live Again</li>
+    <li><strong>April 2022</strong> - MC2MC: Women In Tech</li>
+    <li><strong>December 2021</strong> - MC2MC Evening</li>
+    <li><strong>May 2021</strong> - MC2MC Evening</li>
+    <li><strong>March 2021</strong> - MC2MC Evening</li>
+  </ul>
+
+  <h4>Foundation Events (2020)</h4>
+  <ul>
+    <li><strong>19/11/2020</strong> - Autumn Edition MC2MC</li>
+    <li><strong>22/10/2020</strong> - Extra Evening (Women in Tech)</li>
+    <li><strong>27/08/2020</strong> - Summer Edition MC2MC</li>
+    <li><strong>28/05/2020</strong> - Spring Edition MC2MC</li>
+    <li><strong>23/04/2020</strong> - BE Community Week – MC2MC Evening</li>
+    <li><strong>19/02/2020</strong> - Kick-Off Evening MC2MC</li>
+  </ul>
+</div>
 <h4>CONTACT ME 📝<h4>
 <ul>
 <li>MAIL: <a href="mailto:Jasper@bernaers.be">Jasper@bernaers.be</a></li>
