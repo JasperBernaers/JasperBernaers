@@ -1,4 +1,4 @@
-<h3>Jasper Bernaers | Senior Managing Consultant @ IBM Consulting | Microsoft Cloud & Security Expert | Co-Founder MC2MC
+<h3>Jasper Bernaers
 🌍</h3>
 
 <ul>
