@@ -22,6 +22,8 @@
   <li><a href="https://www.linkedin.com/pulse/cybersecurity-remote-connected-world-jasper-bernaers/">Cybersecurity in a remote connected world</a></li>
   <li><a href="https://www.linkedin.com/pulse/cybersecurity-local-governments-10-steps-jasper-bernaers/">Cybersecurity for local governments – in 10 steps</a></li>
   <li><a href="https://www.linkedin.com/pulse/best-zero-trust-sources-microsoft-365-azure-jasper-bernaers/">Best Zero Trust sources Microsoft 365 + Azure</a></li>
+  <li><a href="https://www.linkedin.com/pulse/5-security-tips-when-starting-microsoft-teams-jasper-bernaers/">5 security tips when starting with Microsoft Teams</a></li>
+  <li><a href="https://www.linkedin.com/pulse/why-choose-microsoft-365-e5-security-jasper-bernaers/">Why choose Microsoft 365 E5 Security?</a></li>
 </ul>
 
 <hr />
