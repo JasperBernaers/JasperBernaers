@@ -18,10 +18,7 @@
 </ul>
 
 <h4>MC2MC COMMUNITY 🧑‍🤝‍🧑<h4>
-  <ul>
-<div id="mc2mc-events">
-  <h3>MC2MC COMMUNITY 🧑‍🤝‍🧑</h3>
-  
+  <ul>  
 <h4>Upcoming & Recent Events</h4>
   <ul>
     <li><strong>05/02/2026</strong> - <a href="https://mc2mc.be/mc2mc-connect/">MC2MC Connect</a></li>
