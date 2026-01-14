@@ -1,7 +1,7 @@
-<h3>Jasper Bernaers | CTO at Wortell Belgium 🌍</h3>
+<h3>Jasper Bernaers 🌍</h3>
 
 <ul>
-  <li>👋 Hi, I’m @Jasper, CTO at Wortell Belgium</li>
+  <li>👋 Hi, I’m @Jasper, Managing Consultant Cloud at IBM</li>
   <li>👀 I’m passionate by Microsoft 365 and Azure to bring our customers in the Cloud connected world!</li>
   <li>💞️ I’m looking to collaborate on Microsoft 365 modernization tracks, sharing knowledge! Super enthusiast to see how Modern Workplaces are designed in the world. Also the softside, people change, fast implementation are super great topics to talk about.</li>
   <li>📫 MC2MC.be board member Of the Microsoft Cloud and Client Management Community #MC2MC</li>
