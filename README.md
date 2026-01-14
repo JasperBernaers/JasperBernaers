@@ -12,6 +12,8 @@
   <li>📙 Content Hero #106 of 250 Content Heroes share valuable knowledge at conferences, meetings or other events. Recipients of this awards have created original content sample code or learning resources and documented and shared their experiences and lessons to help others to build on Azure.</li>
 </ul>
 
+<hr />
+
 <h4>LATEST BLOGPOSTS 📖</h4>
 <ul>
   <li><a href="https://jasperbernaers.com/how-to-build-your-zero-trust-modern-workplace-with-microsoft-365/">HOW TO BUILD YOUR ZERO TRUST MODERN WORKPLACE WITH MICROSOFT 365</a></li>
