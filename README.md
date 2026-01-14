@@ -2,7 +2,7 @@
 🌍</h3>
 
 <ul>
-  <li>👋 Hi, I’m @Jasper,Senior Managing Consultant @ IBM Consulting | Microsoft Cloud & Security Expert | Co-Founder MC2MC
+  <li>👋 Hi, I’m @Jasper Bernaers,Senior Managing Consultant @ IBM Consulting | Microsoft Cloud & Security Expert | Co-Founder MC2MC
 /li>
   <li>👀 I’m passionate by Microsoft 365 and Azure to bring our customers in the Cloud connected world!</li>
   <li>💞️ I’m looking to collaborate on Microsoft 365 modernization tracks, sharing knowledge! Super enthusiast to see how Modern Workplaces are designed in the world. Also the softside, people change, fast implementation are super great topics to talk about.</li>
