@@ -29,7 +29,7 @@
 
 <h5>Upcoming & Recent Events</h5>
 <ul>
-  <li>05/02/2026 - <a href="https://mc2mc.be/mc2mc-connect/">MC2MC Connect</a></li>
+  <li>05/02/2026 - <a href="https://connect.mc2mc.be/">MC2MC Connect</a></li>
   <li>18/12/2025 - <a href="https://mc2mc.be/mc2mc-live-the-martian-codebase/">MC2MC Live: The Martian Codebase</a></li>
   <li>13/11/2025 - <a href="https://mc2mc.be/mc2mc-live-transformers-of-the-digital-age/">MC2MC Live: Transformers of the Digital Age</a></li>
   <li>16/10/2025 - <a href="https://mc2mc.be/mc2mc-live-a-space-odyssey-in-nnovation-16-10-2025/">MC2MC Live: A Space Odyssey in Innovation</a></li>
