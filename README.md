@@ -12,22 +12,6 @@
   <li>📙 Content Hero #106 of 250 Content Heroes share valuable knowledge at conferences, meetings or other events. Recipients of this awards have created original content sample code or learning resources and documented and shared their experiences and lessons to help others to build on Azure.</li>
 </ul>
 
-<hr />
-
-<h4>LINKEDIN ARTICLES 📝</h4>
-<ul>
-  <li><a href="https://www.linkedin.com/pulse/power-proactive-threat-hunting-110-jasper-bernaers-lpxhe/">The Power of Proactive Threat Hunting [1/10]</a></li>
-  <li><a href="https://www.linkedin.com/pulse/how-modern-secure-workplace-can-help-your-organization-jasper-bernaers/">How a modern and secure workplace can help your organization become relevant</a></li>
-  <li><a href="https://www.linkedin.com/pulse/actionable-steps-decrease-risk-cyberattack-jasper-bernaers/">Actionable steps to decrease the risk of a Cyberattack</a></li>
-  <li><a href="https://www.linkedin.com/pulse/cybersecurity-remote-connected-world-jasper-bernaers/">Cybersecurity in a remote connected world</a></li>
-  <li><a href="https://www.linkedin.com/pulse/cybersecurity-local-governments-10-steps-jasper-bernaers/">Cybersecurity for local governments – in 10 steps</a></li>
-  <li><a href="https://www.linkedin.com/pulse/best-zero-trust-sources-microsoft-365-azure-jasper-bernaers/">Best Zero Trust sources Microsoft 365 + Azure</a></li>
-  <li><a href="https://www.linkedin.com/pulse/5-security-tips-when-starting-microsoft-teams-jasper-bernaers/">5 security tips when starting with Microsoft Teams</a></li>
-  <li><a href="https://www.linkedin.com/pulse/why-choose-microsoft-365-e5-security-jasper-bernaers/">Why choose Microsoft 365 E5 Security?</a></li>
-</ul>
-
-<hr />
-
 <h4>LATEST BLOGPOSTS 📖</h4>
 <ul>
   <li><a href="https://jasperbernaers.com/how-to-build-your-zero-trust-modern-workplace-with-microsoft-365/">HOW TO BUILD YOUR ZERO TRUST MODERN WORKPLACE WITH MICROSOFT 365</a></li>
