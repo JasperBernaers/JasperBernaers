@@ -5,9 +5,8 @@
   <li>👀 I’m passionate by Microsoft 365 and Azure to bring our customers in the Cloud connected world!</li>
   <li>💞️ I’m looking to collaborate on Microsoft 365 modernization tracks, sharing knowledge! Super enthusiast to see how Modern Workplaces are designed in the world. Also the softside, people change, fast implementation are super great topics to talk about.</li>
   <li>📫 MC2MC.be board member Of the Microsoft Cloud and Client Management Community #MC2MC</li>
-  <li>✍ You will find my professional blog at <a href="https://JasperBernaers.com">JasperBernaers.com</a> where I share my ideas of Modern Workplace, and my hobby tips blog here: <a href="https://365tips.be">365tips.be</a></li>
-    <li>✍ Ready my self written Ebook via <a href="https://JasperBernaers.com">JasperBernaers.com</a> where I share my ideas of Modern Workplace, and my hobby tips blog here: <a href="https://365tips.be">365tips.be</a></li>
-  <li>💯 Also feel free to read my blogs on <a href="https://jasperbernaers.com/wp-content/uploads/2024/03/Howa-modern-and-secure-workplace-can-help-your-organization-become-relevant.pdf">Ebook Modern Workplace</a></li>
+  <li>✍ You will find my professional blog at <a href="https://JasperBernaers.com">JasperBernaers.com</a> where I share my ideas of Modern Workplace.</li>
+    <li>✍ Ready my self written Ebook via <a href="https://jasperbernaers.com/wp-content/uploads/2024/03/Howa-modern-and-secure-workplace-can-help-your-organization-become-relevant.pdf"</a>
   <li>🤖 Find me on Twitter <a href="https://twitter.com/Jasper_be">@Jasper_be</a></li>
   <li>😍 Community Hero #229 of 550 Community Heroes have contributed materially by organizing meetups or conferences or by sharing content and being an active member of the community!</li>
   <li>📙 Content Hero #106 of 250 Content Heroes share valuable knowledge at conferences, meetings or other events. Recipients of this awards have created original content sample code or learning resources and documented and shared their experiences and lessons to help others to build on Azure.</li>
