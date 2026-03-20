@@ -1,5 +1,3 @@
-update my page on LinkedIn to also have my apps of JasperBernaers.com/app lined up.
-
 <h3>Jasper Bernaers 🌍</h3>
 
 <ul>
