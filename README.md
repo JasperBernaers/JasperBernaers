@@ -1,6 +1,6 @@
 # Jasper Bernaers 🌍
 
-**Cloud & AI Strategist · IBM Consulting · Belgium 🇧🇪**
+**Managing Consultant · IBM Consulting · Belgium 🇧🇪**
 
 > Helping organisations navigate hybrid cloud, AI, and secure modern workplaces — one implementation at a time.
 
