@@ -25,6 +25,7 @@
 | [Email Header Analyzer](https://jasperbernaers.com/header-analyzer/) | Trace delivery path · SPF · DKIM · DMARC · hop delays |
 | [Azure Naming Convention](https://jasperbernaers.com/azurenamingconvention/) | Generate Azure resource names following CAF standards |
 | [ASCII Art Generator](https://jasperbernaers.com/ASCII-generator/) | Convert any image or text to ASCII art |
+| [Notepad Online Editor](https://jasperbernaers.com/notepad/) | Free Notepad online alternative |
 
 → [Browse all 60+ free tools](https://jasperbernaers.com/apps/)
 
