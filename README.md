@@ -26,6 +26,11 @@
 | [Azure Naming Convention](https://jasperbernaers.com/azurenamingconvention/) | Generate Azure resource names following CAF standards |
 | [ASCII Art Generator](https://jasperbernaers.com/ASCII-generator/) | Convert any image or text to ASCII art |
 | [Notepad Online Editor](https://jasperbernaers.com/notepad/) | Free Notepad online alternative |
+| [Online Markdown Live Editor](https://jasperbernaers.com/markdown-live-editor/) | Free online markdown editor with preview |
+| [HEIC to JPG Converter](https://jasperbernaers.com/free-heic-to-jpg-converter/) | HEIC to JPG Converter |
+| [Browser AI](https://jasperbernaers.com/free-browser-based-ai/) | Local LLM with basic models as Phi 3.5, Mistral, Deepseek with WebGPU |
+| [Browser homescreen](https://jasperbernaers.com/homescreen/) | Homescreen with AI, Search and productivity & dev apps |
+
 
 → [Browse all 60+ free tools](https://jasperbernaers.com/apps/)
 
