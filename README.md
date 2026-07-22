@@ -10,7 +10,7 @@
 
 - 🏢 Managing Consultant at **IBM Consulting**
 - 🛡️ Co-founder of **[MC2MC](https://mc2mc.be)** — Microsoft Cloud & Client Management Community
-- ✍️ Writing about Azure, Microsoft 365 & security at **[jasperbernaers.com](https://jasperbernaers.com)**
+- ✍️ Writing about Azure, Microsoft 365 & security at **[jasperbernaers.com](https://jasperbernaers.com/about-me)**
 - 📘 Author of a free eBook: [How a Modern & Secure Workplace Can Help Your Organisation Become Relevant](https://jasperbernaers.com/Ebook-Jasper-Bernaers.pdf)
 - 🏅 Community Hero #229 · Content Hero #106
 
